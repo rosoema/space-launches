@@ -8,7 +8,7 @@ A simple React App that pulls data from an API and displays it. For each item di
 - [x] CSS
 - [x] React.js (React Router) 
 - [x] styled-components
-- [x] APIs. 
+- [x] APIs ([API used](https://ll.thespacedevs.com/2.2.0/launch/)). 
 
 [Open it up in your browser](https://rosoema.github.io/space-launches/)
 
