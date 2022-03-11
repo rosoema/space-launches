@@ -1,4 +1,4 @@
-#Space Launches | React App
+# Space Launches | React App
 
 A simple React App that pulls data from an API and displays it. For each item displayed, more data is shown when clicked on.  
 
