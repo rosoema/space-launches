@@ -1,0 +1,31 @@
+body, html, #root, div {
+    overflow-x: hidden;
+}
+
+html {
+    background-image: url(../public/jeremy-perkins-uhjiu8FjnsQ-unsplash\ \(1\).jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+ul {
+    list-style: none;
+    width: 100%;
+    box-sizing: border-box;
+    margin: 50px auto;
+    padding: 0;
+}
+
+ul a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+ul a li {
+    width: 25vw;
+}
