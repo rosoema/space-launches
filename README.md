@@ -4,11 +4,11 @@ A simple React App that pulls data from an API and displays it. For each item di
 
 **Technologies used:** 
 
-[x] HTML 
-[x] CSS
-[x] React.js (React Router) 
-[x] styled-components
-[x] APIs. 
+- [x] HTML 
+- [x] CSS
+- [x] React.js (React Router) 
+- [x] styled-components
+- [x] APIs. 
 
 [Open it up in your browser](https://rosoema.github.io/space-launches/)
 
